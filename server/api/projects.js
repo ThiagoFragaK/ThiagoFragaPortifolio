@@ -39,5 +39,31 @@ export default defineEventHandler(() => {
             },
             repository: "https://github.com/ThiagoFragaK/TKsPortifolio",
         },
+        {
+            title: {
+                "en": "myFinanz",
+                "pt": "myFinanz",
+            },
+            stacks: "Vue3/Nuxt3 - .NET",
+            url: "https://finanz-development.up.railway.app/login",
+            description: {
+                "en": "My finance management project. In progress.",
+                "pt": "Meu projeto de gerenciamento de finanças. Em progresso.",
+            },
+            repository: "https://github.com/ThiagoFragaK/myFinanz",
+        },
+        {
+            title: {
+                "en": "Fragate",
+                "pt": "Fragate",
+            },
+            stacks: "Vue3/Nuxt3 - .NET",
+            url: "https://finanz-development.up.railway.app/login",
+            description: {
+                "en": "Fleet and warehouse management project. In progress.",
+                "pt": "Projeto de gerenciamento de frotas e armazéns. Em progresso.",
+            },
+            repository: "https://fragate-production.up.railway.app/",
+        },
     ]
 });
