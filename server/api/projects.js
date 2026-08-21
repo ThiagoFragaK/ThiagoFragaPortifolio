@@ -39,5 +39,18 @@ export default defineEventHandler(() => {
             },
             repository: "https://github.com/ThiagoFragaK/TKsPortifolio",
         },
+        {
+            title: {
+                "en": "myFinanz",
+                "pt": "Invoicer",
+            },
+            stacks: "Vue3/Nuxt3",
+            url: "https://finanz-development.up.railway.app/login",
+            description: {
+                "en": "My finance management project. In progress.",
+                "pt": "Meu projeto de gerenciamento de finanças. Em progresso.",
+            },
+            repository: "https://github.com/ThiagoFragaK/myFinanz",
+        },
     ]
 });
