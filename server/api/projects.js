@@ -58,12 +58,12 @@ export default defineEventHandler(() => {
                 "pt": "Fragate",
             },
             stacks: "Vue3/Nuxt3 - .NET",
-            url: "https://finanz-development.up.railway.app/login",
+            url: "https://fragate-production.up.railway.app/",
             description: {
                 "en": "Fleet and warehouse management project. In progress.",
                 "pt": "Projeto de gerenciamento de frotas e armazéns. Em progresso.",
             },
-            repository: "https://fragate-production.up.railway.app/",
+            repository: "https://github.com/ThiagoFragaK/fragate",
         },
     ]
 });
